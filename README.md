@@ -1,4 +1,4 @@
-# Present Me - Generic PPT Generator
+# Present Me - A PPT Generator
 
 **Present Me** is a Python-based command-line tool to generate PPT presentations automatically from an Excel workbook and an HTML template. It is designed to be **industry-agnostic** and can be used for marketing, sales, education, or any kind of presentations.
 
