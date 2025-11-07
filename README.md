@@ -22,6 +22,16 @@
 - In the terminal, navigate to cd ~/desktop/present_me or wherever your folder is.
 - Open a virtual env and install the packages. (pip install...)
 
+✅ Adding Required Local Images
+This script uses three optional branding assets:
+- logo_left.png
+- logo_right.png
+- bottom_strip.png
+
+### Where these files must be placed
+All three image files must be placed inside the same folder defined as:
+folder_path = os.path.expanduser("~/Desktop/artwork")
+
 **Important:**  
 
 - The Excel columns start at `col2`. You can add a `col1` in your workbook for your own reference, but it will **not affect the PPT generation**.  
