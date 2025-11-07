@@ -22,7 +22,8 @@
 - In the terminal, navigate to cd ~/desktop/present_me or wherever your folder is.
 - Open a virtual env and install the packages. (pip install...)
 
-✅ Adding Required Local Images
+✅ Add the required local images
+
 This script uses three optional branding assets:
 - logo_left.png
 - logo_right.png
